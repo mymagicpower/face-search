@@ -2,7 +2,7 @@
 http://aias.top/
 
 
-### 人像搜索
+### Face Search
 <div align="center">
 <img src="https://aias-home.oss-cn-beijing.aliyuncs.com/products/face_search/images/arc.png"  width = "600"/>
 </div> 
@@ -24,8 +24,8 @@ http://aias.top/
 
 ### 2. Face Search [Full Version] - face_search
 #### Feature Introduction
-- Search Management: Provides general image search, portrait search, and image information viewing
-- Storage Management: Provides image compression package (zip format) upload, portrait feature extraction, general feature extraction
+- Search Management: Provides face search, and image information viewing
+- Storage Management: Provides image compression package (zip format) upload, face feature extraction
 - User Management: Offers user-related configurations, default password is 123456 after adding a new user
 - Role Management: Assigns permissions and menus, can set role data permissions based on departments
 - Menu Management: Implements dynamic menu routing, configurable backend, supports multi-level menus
